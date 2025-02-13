@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7BE25&width=700&lines=🌍+Hello+World!;👋+Hola+World!;💡+Bonjour+World!;🚀+Hallo+World!;✨+Ciao+World!;🔥+こんにちは+World!;🌏+안녕하세요+World!;🤖+你好，World!;💻+Привет,+World!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=F7BE25&center=true&vCenter=true&width=800&lines=👋+Hello+World!;✨+Hola+World!;🚀+Bonjour+World!;🔥+Hallo+World!;💡+Ciao+World!;🌍+こんにちは+World!;🌏+안녕하세요+World!;🤖+你好，World!;💻+Привет,+World!" />
 </p>
 
 # 💫 About Me:
