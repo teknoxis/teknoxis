@@ -1,7 +1,9 @@
+<img style="cursor: zoom-in;" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk0Njc1OTIsIm5iZiI6MTczOTQ2NzI5MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEzVDE3MjEzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwNGQ3ZjdhNDM5OGU2Mzg0YTA1NWM4NzU5M2Y3OTNiZmY2YzcwZWQ0NGY2NGQ5ZmUwNjEzM2NkYzk5MzRmOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gMw8FMBHHyOMZA3W-hBi6zcpqfDnY3QhVLf2RaIzdCw" width="453" height="340">
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7BE25&width=600&lines=🚀+Welcome+to+Synoraa's+GitHub!;💡+AI+%7C+Web+%7C+Open+Source;🔥+Building+Next-Gen+Tech;🤝+Open+for+collaborations!">
 </p>
-
 
 
 # 💫 About Me:
