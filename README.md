@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7BE25&width=600&lines=        🚀+Welcome+to+Synoraa's+GitHub!;💡+AI+%7C+Web+%7C+Open+Source;🔥+Building+Next-Gen+Tech">
+  <img src="      https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7BE25&width=600&lines=🚀+Welcome+to+Synoraa's+GitHub!;💡+AI+%7C+Web+%7C+Open+Source;🔥+Building+Next-Gen+Tech">
 </p>
 
 
