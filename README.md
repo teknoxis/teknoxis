@@ -1,3 +1,4 @@
+<img style="-webkit-user-select:none; display:block; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7BE25&width=600&lines=🚀+Welcome+to+Synoraa's+GitHub!;💡+AI+%7C+Web+%7C+Open+Source;🔥+Building+Next-Gen+Tech;🤝+Open+for+collaborations!">
 </p>
