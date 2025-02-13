@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7BE25&width=700&lines=🌍+Hello+World!;👋+Hola+World!;💡+Bonjour+World!;🚀+Hallo+World!;✨+Ciao+World!;🔥+こんにちは+World!;🌏+안녕하세요+World!;🤖+你好，World!;💻+Привет,+World!" />
 </p>
 
-
 # 💫 About Me:
 👋 Hi, I'm Abhijeet Kumar  <br>🎓 Pursuing Bachelor's in Computer Science at Parul University <br>🔭 Currently working on Python Projects  <br>🌱 Learning Full Stack Development  <br>💡 Interested in AI, Development<br>🤝 Open to collaborations on AI Development  <br>
 
