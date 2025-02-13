@@ -1,8 +1,10 @@
 <p align="center">
 <img style="cursor: zoom-in;" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1159" height="340">
-
-<img style="cursor: zoom-in;" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="604" height="340">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7BE25&width=700&lines=🌍+Hello+World!;👋+Hola+Mundo!;💡+Bonjour+le+monde!;🚀+Hallo+Welt!;✨+Ciao+Mondo!;🔥+こんにちは世界!;🌏+안녕하세요+세계!;🤖+你好，世界!;💻+Привет,+мир!" />
+</p>
+
 
 # 💫 About Me:
 👋 Hi, I'm Abhijeet Kumar  <br>🎓 Pursuing Bachelor's in Computer Science at Parul University <br>🔭 Currently working on Python Projects  <br>🌱 Learning Full Stack Development  <br>💡 Interested in AI, Development<br>🤝 Open to collaborations on AI Development  <br>
