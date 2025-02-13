@@ -4,24 +4,7 @@
 
 
 # 💫 About Me:
-<h1 align="center">👋 Hi, I'm Abhijeet Kumar!</h1>
-
-### 🎓 Education  
-📖 Pursuing **Bachelor's in Computer Science** at **Parul University**  
-
-### 🚀 What I'm Working On  
-🔭 Currently developing **Python Projects**  
-🌱 Learning **Full Stack Development**  
-
-### 💡 Interests  
-🤖 Passionate about **AI & Development**  
-🤝 Open to **collaborations on AI Development**  
-
----
-
-✨ **Let's connect!** ✨  
-📫 Reach out to me for discussions & projects!  
-
+👋 Hi, I'm Abhijeet Kumar  <br>🎓 Pursuing Bachelor's in Computer Science at Parul University <br>🔭 Currently working on Python Projects  <br>🌱 Learning Full Stack Development  <br>💡 Interested in AI, Development<br>🤝 Open to collaborations on AI Development  <br>
 
 
 ## 🌐 Socials:
