@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-AbhijeetKumar-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-sclq.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ffd5.svg?style=for-the-badge&logo=web&logoColor=white)](https://myportfolio-sclq.onrender.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetkumar07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connectwithsynora@gmail.com) 
 
 # 💻 Tech Stack:
